@@ -1,9 +1,10 @@
 # Harshith D S — Portfolio
 
-Responsive personal portfolio website built with HTML and CSS. Hosted with GitHub Pages.
+A personal developer portfolio built with semantic HTML and custom CSS.
 
-## Run locally
-Open `index.html` in a browser.
+- Responsive, accessible layout
+- No framework, template kit, or JavaScript animation library
+- Project links, skills, education and contact details
+- Published with GitHub Pages
 
-## Projects
-Highlights selected projects from my public GitHub profile. Project descriptions distinguish prototypes and early-stage work from production applications.
+Live site: https://harshith29122004-lgtm.github.io/portfolio/
